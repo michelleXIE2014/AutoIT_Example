@@ -1,7 +1,17 @@
 # AutoIT_Example
-Environment:
+
+Platform:
+- Windows
+
+Programming language:
+- AutoIT script: check autoIT help after installed it
+
+Downloads:
 - AutoIT: https://www.autoitscript.com/site/autoit/downloads/
+- Cygwin installer from https://www.cygwin.com/
 - Jenkins: https://jenkins.io/download/
+- Java 11(Jenkins requires java 11): https://www.oracle.com/ca-en/java/technologies/javase/jdk11-archive-downloads.html
+- UISpy: https://github.com/2gis/Winium.Cruciatus/tree/master/tools/UISpy
 
 
 Run autoIT script on jenkins on Windows
